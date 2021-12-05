@@ -5,7 +5,7 @@ import CandyMachine from "./CandyMachine";
 // Constants
 const TWITTER_HANDLE = "_buildspace";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-
+//force
 const App = () => {
   const [walletAddress, setWalletAddress] = useState(null);
   const checkIfWalletIsConnected = async () => {
