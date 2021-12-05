@@ -1,0 +1,19 @@
+{
+    "name": "BIGCHUCK",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8oE2haZZ4gmrNyDQdHeRMhGWyg63cd2ZRuFtN3xBbyd1",
+          "share": 100
+        }
+      ]
+    }
+  }

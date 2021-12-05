@@ -1,0 +1,19 @@
+{
+    "name": "CHUCKBURGER",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8oE2haZZ4gmrNyDQdHeRMhGWyg63cd2ZRuFtN3xBbyd1",
+          "share": 100
+        }
+      ]
+    }
+  }
